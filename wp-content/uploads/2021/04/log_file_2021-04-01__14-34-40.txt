@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: Education Zone Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://ec2-15-207-222-35.ap-south-1.compute.amazonaws.com
+Data file = /var/www/html/WesterlyTutors/wp-content/uploads/rara-demo-pack/education-zone-demo-content/content/education.xml
+Widget file = /var/www/html/WesterlyTutors/wp-content/uploads/rara-demo-pack/education-zone-demo-content/content/education.wie
+Customizer file = /var/www/html/WesterlyTutors/wp-content/uploads/rara-demo-pack/education-zone-demo-content/content/education.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+RARA: Recent Post - Recent Posts - Imported
+RARA: Popular Post - Popular Posts - Imported
+RARA: Social Links - Follow Us On - Imported
+
+Footer One : 
+
+Text - Education Zone - Imported
+
+Footer Two : 
+
+RARA: Recent Post - Recent activities - Imported
+
+Footer Three : 
+
+Navigation Menu - Our Courses - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
